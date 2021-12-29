@@ -1,0 +1,15 @@
+.header {
+  padding: 20px;
+  margin: auto;
+  background-color: #242a56;
+  opacity: 0.85;
+}
+
+.image {
+  width: 100%;
+  display: flex;
+  margin: auto;
+  align-items: center;
+  height: 80px;
+  width: 250px;
+}
